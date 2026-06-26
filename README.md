@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

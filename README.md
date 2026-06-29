@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
@@ -73,5 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

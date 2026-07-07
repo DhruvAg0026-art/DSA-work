@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0051-n-queens) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0051-n-queens) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3286-find-a-safe-walk-through-a-grid) |

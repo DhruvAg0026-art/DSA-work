@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
+| [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |

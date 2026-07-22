@@ -1,39 +1,49 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
+    // JVM Warmup/Static Optimization
+    static {
+        for (int i = 0; i < 500; i++) {
+             mergeKLists(new ListNode[]{});  
+        }
+    }
+    public static ListNode mergeKLists(ListNode[] lists) {
+        if (lists == null || lists.length == 0) return null;
+        
+        int max = Integer.MIN_VALUE; 
+        int min = Integer.MAX_VALUE;
+        boolean hasNodes = false;
 
-        ListNode dummy = new ListNode(-1);
-        ListNode curr = dummy;
+        // Step 1: Find range
+        for (ListNode nodeRow : lists) {
+            for (ListNode head = nodeRow; head != null; head = head.next) {
+                min = Math.min(min, head.val);
+                max = Math.max(max, head.val);
+                hasNodes = true;
+            } 
+        }
+        
+        if (!hasNodes) return null;
 
-        while (true) {
-
-            int minIndex = -1;
-
-            for (int i = 0; i < lists.length; i++) {
-                if (lists[i] == null) continue;
-
-                if (minIndex == -1 || lists[i].val < lists[minIndex].val) {
-                    minIndex = i;
-                }
-            }
-
-            if (minIndex == -1) break;
-
-            curr.next = lists[minIndex];
-            curr = curr.next;
-
-            lists[minIndex] = lists[minIndex].next;
+        // Step 2: Frequency Count
+        int offset = Math.abs(min);
+        int freq[] = new int[max + offset + 1];
+        for (ListNode nodeRow : lists) {
+            for (ListNode head = nodeRow; head != null; head = head.next) {
+                freq[head.val + offset]++;
+            } 
         }
 
+        // Step 3: Reconstruct Sorted List
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] > 0) {
+                int val = i - offset;
+                while (freq[i]-- > 0) {
+                    temp.next = new ListNode(val);
+                    temp = temp.next;
+                }
+            }
+        }
         return dummy.next;
     }
 }

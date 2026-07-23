@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0051-n-queens) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |

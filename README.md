@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

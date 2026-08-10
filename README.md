@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0877-stone-game) |
@@ -341,5 +343,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

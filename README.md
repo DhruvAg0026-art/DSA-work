@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1140-stone-game-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1510-stone-game-iv) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

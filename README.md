@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0746-min-cost-climbing-stairs) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0746-min-cost-climbing-stairs) |

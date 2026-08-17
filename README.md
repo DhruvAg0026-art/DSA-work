@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

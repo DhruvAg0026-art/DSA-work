@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |

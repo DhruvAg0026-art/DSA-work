@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0093-restore-ip-addresses) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics

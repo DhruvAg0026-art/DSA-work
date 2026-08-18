@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0051-n-queens) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |

@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0198-house-robber) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3518-smallest-palindromic-rearrangement-ii) |

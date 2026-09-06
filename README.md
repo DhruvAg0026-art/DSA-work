@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1927-sum-game) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |

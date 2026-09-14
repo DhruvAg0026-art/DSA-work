@@ -508,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0836-rectangle-overlap) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

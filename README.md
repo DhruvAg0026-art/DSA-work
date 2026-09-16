@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Counting Sort
 |  |

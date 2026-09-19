@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1386-cinema-seat-allocation) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
+| [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -548,4 +551,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0093-restore-ip-addresses) |
+| [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
+| [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1386-cinema-seat-allocation) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1927-sum-game) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

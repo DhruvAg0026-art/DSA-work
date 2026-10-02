@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0055-jump-game) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

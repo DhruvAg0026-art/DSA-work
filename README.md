@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2685-count-the-number-of-complete-components) |

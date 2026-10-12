@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1288-remove-covered-intervals) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |

@@ -11,28 +11,46 @@
 
 class Solution {
     public ListNode sortList(ListNode head) {
-
         if (head == null || head.next == null) {
             return head;
         }
 
-        ArrayList<Integer> arr=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
-        }
-        Collections.sort(arr);
-        temp = head;
-        int i = 0;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
 
-        while (temp != null) {
-            temp.val = arr.get(i);
-            i++;
-            temp = temp.next;
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        return head;
+        prev.next = null;
+
+        ListNode left = sortList(head);
+        ListNode right = sortList(slow);
+
+        return merge(left, right);
+    }
+
+    private ListNode merge(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode tail = dummy;
+
+        while (l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                tail.next = l1;
+                l1 = l1.next;
+            } else {
+                tail.next = l2;
+                l2 = l2.next;
+            }
+
+            tail = tail.next;
+        }
+
+        tail.next = (l1 != null) ? l1 : l2;
+
+        return dummy.next;
     }
 }
-   

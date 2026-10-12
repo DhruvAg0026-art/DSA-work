@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DhruvAg0026-art/DSA-work/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Counting Sort

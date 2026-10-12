@@ -20,8 +20,6 @@ class Solution {
         while (true) {
 
             ListNode kth = prevGroup;
-
-            // Find kth node
             for (int i = 0; i < k && kth != null; i++) {
                 kth = kth.next;
             }
@@ -31,7 +29,7 @@ class Solution {
 
             ListNode groupNext = kth.next;
 
-            // Reverse group
+            
             ListNode prev = groupNext;
             ListNode curr = prevGroup.next;
 

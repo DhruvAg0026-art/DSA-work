@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0856-score-of-parentheses) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |

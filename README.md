@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/3498-reverse-degree-of-a-string) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1021-remove-outermost-parentheses) |

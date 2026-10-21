@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1544-make-the-string-great](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |

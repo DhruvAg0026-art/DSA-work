@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0213-house-robber-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0682-baseball-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0148-sort-list) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1288-remove-covered-intervals) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvAg0026-art/DSA-work/tree/master/1358-number-of-substrings-containing-all-three-characters) |
